@@ -1,3 +1,6 @@
+## [2.1.1]
+- Fixed [#428](https://github.com/SimformSolutionsPvtLtd/flutter_showcaseview/issues/428) - _ShowcaseState.recalculateRootWidgetSize null value
+
 ## [2.1.0]
 - Feature [#420](https://github.com/SimformSolutionsPvtLtd/flutter_showcaseview/pull/420) - Dart SDK Upgrade
 - Fixed [#419](https://github.com/SimformSolutionsPvtLtd/flutter_showcaseview/pull/419) - Suppress Text Scale Factor Warning
